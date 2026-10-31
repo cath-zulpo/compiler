@@ -1,0 +1,7 @@
+compilador.tab.*
+lex.yy.c
+compilador.o
+compilador
+compilador.output
+MEPA
+Makefile-old
